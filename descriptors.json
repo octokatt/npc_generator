@@ -37,6 +37,38 @@
         , "quiet"
         , "suspicious"
         , "hilarious"
+    ],
+    "genders":
+    [
+        "woman"
+        , "matron"
+        , "maiden"
+        , "mother"
+        , "crone"
+        , "man"
+        , "fellow"
+        , "father"
+        , "young man"
+        , "geezer"
+        , "gentleman"
+        , "lady"
+        , "ancient person"
+        , "androgynous youth"
+    ],
+    "appearance":
+    [
+        "neat and fussy"
+        , "clean and respectible"
+        , "sloppy and unkempt"
+        , "messy, and slightly drunk"
+        , "utterly forgetable"
+        , "jovially disheveled"
+        , "grubby, but wears finery"
+        , "poor but well-scrubbed"
+        , "effortlessly beautiful"
+        , "oddly comforting"
+        , "unnerving"
+        , "average"
     ]
 
 }
