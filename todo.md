@@ -1,0 +1,4 @@
+- [ ] Enter the rest of the JSON from D&D manual, or something different
+- [ ] Create actual functions for each of the traits, with a random int
+- [ ] Get a decent parser up and running for everything
+- [ ] Wrap this into, like, an API and all that?

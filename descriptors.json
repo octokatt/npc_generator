@@ -1,0 +1,42 @@
+{
+    "talents":
+    [ 
+        "Plays a musical instrument"
+        , "Speaks several languages"
+        , "Unbelievably lucky"
+        , "Perfect memory"
+        , "Great with animals"
+        , "Great with children"
+        , "Great at solving puzzles"
+        , "Great at one game"
+        , "Great at impersonations"
+        , "Draws beautifully"
+        , "Paints beautifully"
+        , "Sings beautifully"
+        , "Drinks people under the table"
+        , "Expert carpenter"
+        , "Fantastic cook"
+        , "Expert at darts and thrown knives"
+        , "Ridiculous juggler and acrobat"
+        , "Skilled actor"
+        , "Knows thieves cant"
+    ],
+    "interaction traits":
+    [
+        "argumentative"
+        , "arrogant"
+        , "blustering"
+        , "rude"
+        , "curious"
+        , "friendly"
+        , "honest"
+        , "hot-tempered"
+        , "irritable"
+        , "optimistic"
+        , "ponderous"
+        , "quiet"
+        , "suspicious"
+        , "hilarious"
+    ]
+
+}
